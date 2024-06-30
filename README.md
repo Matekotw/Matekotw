@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Java, Linux & Cybersecurity
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on Python, Java, Linux & Cybersecurity
-- 📫 How to reach me https://www.linkedin.com/in/mateusz-kotwicki/
+- 📫 How to reach me https://www.linkedin.com/in/mateusz-kotwicki
 
 
 <!---
