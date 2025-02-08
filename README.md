@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Matekotw  -> Mateusz Kotiwcki
-- 👀 I’m interested in Python, Java, Linux & Cybersecurity
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Python, Java, Linux & Cybersecurity
-- 📫 How to reach me https://www.linkedin.com/in/mateusz-kotwicki
+My adventure with Python and Java started as a challenge during my studies of programming engineering, but thanks to determination and a change of perspective, it becamemy strongest asset. I am fluent in English, my second language is Japanese, which Ilearned in Tokyo during a one-year course. I am passionate about cybersecurity, butmy priority right now is to find a job as a Python Developer or as a Java Developer. I am eager to use mytechnical skills and language experience to bring value to new projects.
 
 
 <!---
