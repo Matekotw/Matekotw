@@ -13,11 +13,14 @@
 <br>
 <div>
   <img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-fastapi/blob/main/python%20logo.png"> 
-  <img align="center" width="100" height="100" src="https://github.com/Matekotw/journalappscr/blob/main/django.png"> 
   <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/java%20logo.jpg">
+  </div>
+<br>
+<div>
+  <p4 id="myText5">my main frameworks</p4>
+  <img align="center" width="100" height="100" src="https://github.com/Matekotw/journalappscr/blob/main/django.png"> 
   <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/spring%20boot%20.png">
 </div>
-
 
 </body>
 </head>
