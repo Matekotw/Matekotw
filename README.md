@@ -8,10 +8,10 @@
 
 <br>
 <br>
-<p3 id="myText4" aling="left">My main programming language:</p3>
+<p3 id="myText4" aling="left">My main programming language and main frameworks:</p3>
 
 <br>
-<p4 id="myText5"align="right">My main frameworks:</p4>
+
 <br>
 <div>
   <img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-fastapi/blob/main/python%20logo.png"> 
