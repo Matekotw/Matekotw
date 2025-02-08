@@ -16,7 +16,7 @@
   <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/java%20logo.jpg">
   </div>
 <br>
-  <p4 id="myText5">my main frameworks</p4>
+<p4 id="myText5">My main frameworks</p4>
 <div>
  <img align="center" width="100" height="100" src="https://github.com/Matekotw/journalappscr/blob/main/django.png"> 
   <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/spring%20boot%20.png">
