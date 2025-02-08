@@ -9,14 +9,14 @@
 <br>
 <br>
 <p3 id="myText4" aling="center">My main programming language:</p3>
-<p4 id="myText5" aling="left" >My main frameworks:</p4>
+<p4 id="myText5" aling="right" >My main frameworks:</p4>
 <br>
 <br>
 <div>
   <img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-fastapi/blob/main/python%20logo.png"> 
   <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/java%20logo.jpg">
-  <img align="left" width="100" height="100" src="https://github.com/Matekotw/journalappscr/blob/main/django.png"> 
-  <img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/spring%20boot%20.png">
+  <img align="right" width="100" height="100" src="https://github.com/Matekotw/journalappscr/blob/main/django.png"> 
+  <img align="right" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/spring%20boot%20.png">
   </div>
 <br>
 
