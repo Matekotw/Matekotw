@@ -10,6 +10,18 @@ My main programming language:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 You can reach me at: 
 https://www.linkedin.com/in/mateuszkotwicki/
 <!---
