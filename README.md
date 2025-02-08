@@ -8,7 +8,7 @@
 
 <br>
 <br>
-<p3 id="myText4" aling="left">My main programming language and main frameworks:</p3>
+<p3 id="myText4" aling="center">My main programming language and main frameworks:</p3>
 
 <br>
 
