@@ -18,7 +18,7 @@
   <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/java%20logo.jpg">
 
   <img align="center" width="100" height="100" src="https://github.com/Matekotw/journalappscr/blob/main/django.png"> 
-  <img align="center width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/spring%20boot%20.png">
+  <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/spring%20boot%20.png">
   </div>
 <br>
 
