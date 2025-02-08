@@ -14,9 +14,9 @@
 
 <br>
 <div>
-  <img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-fastapi/blob/main/python%20logo.png"> 
-  <img align="left" width="100" height="100" src="https://github.com/Matekotw/journalappscr/blob/main/django.png"> 
-  <img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-fastapi/blob/main/fastapi%20logo.png"> 
+  <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-fastapi/blob/main/python%20logo.png"> 
+  <img align="center" width="100" height="100" src="https://github.com/Matekotw/journalappscr/blob/main/django.png"> 
+  <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-fastapi/blob/main/fastapi%20logo.png"> 
   <br>
   <br>
   <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/java%20logo.jpg">
