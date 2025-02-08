@@ -7,6 +7,8 @@
 https://www.linkedin.com/in/mateuszkotwicki </p1>
 <br>
 <p3 id="myText3">My main programming language:</p3>
+<br>
+<br>
 <div>
   <img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-fastapi/blob/main/python%20logo.png"> 
   <img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/java%20logo.jpg">
