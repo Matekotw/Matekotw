@@ -6,12 +6,10 @@ You can reach me at:
  * https://www.linkedin.com/in/mateuszkotwicki/</h1>
 <br>
 My main programming language:
-
-<br>
-
-<img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-fastapi/blob/main/python%20logo.png"> 
-<img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/java%20logo.jpg">
-
+<div>
+  <img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-fastapi/blob/main/python%20logo.png"> 
+  <img align="left" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/java%20logo.jpg">
+</div>
 <br>
 </bod>
 </head>
