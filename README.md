@@ -10,9 +10,7 @@
 <br>
 <br>
 <p3 id="myText4" aling="center">My main programming language and main frameworks:</p3>
-
 <br>
-
 <br>
 <div>
   <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-fastapi/blob/main/python%20logo.png"> 
@@ -24,9 +22,6 @@
   <img align="center" width="100" height="100" src="https://github.com/Matekotw/scr-todo-java/blob/main/spring%20boot%20.png">
   </div>
 <br>
-
-
-
 </body>
 </head>
 </html>
