@@ -1,7 +1,7 @@
 <html>
 <head>
 <body>
-<p id ="myText"> My adventure with Python and Java started as a challenge during my studies of programming engineering, but thanks to determination and a change of perspective, it has become my strongest asset. I am fluent in English, my second language is Japanese, which I learned in Tokyo during a one-year course. I am passionate about cybersecurity, but my priority right now is to find a job as a Python or Java Developer. I am eager to use my technical skills and language experience to bring value to new projects. </p>
+<p id ="myText"> My adventure with Python and Java started as a challenge during my studies of programming engineering, but thanks to determination and a change of perspective, it has become my strongest asset. I am fluent in English, my second language is Japanese, which I learned in Tokyo during a one-year course. I am passionate about AI and machine learning, but my priority right now is to find a job as a Python or Java Developer. I am eager to use my technical skills and language experience to bring value to new projects. </p>
 <br>
 <p1 id="myText2"> You can reach me at:<p1>
 <div>
